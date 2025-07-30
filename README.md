@@ -6,13 +6,12 @@ I'm a Software Engineer, Web Developer, and Backend System Architect who current
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a 3-year self-taught PHP/Laravel developer 
 - 💡 I studied Software Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently learning JavaScript, Vuejs, Nodejs, Expressjs, Typescript, and Nestjs.
+- 🌱 I’m an expert JavaScript, Reactjs, Nextjs, Vuejs, Nodejs, Expressjs, Typescript, and Nestjs.
 - 😊 I’m seeking help with open-source projects, hackathons, full-time roles, and mid-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, MERN stack developer (Midlevel level).
-- 📫 You can [view my resume](#) an contact me by emailing auscaydev@gmail.com.
+- 📫 You can [view my resume](#) an contact me by emailing ebowusifeanyi@gmail.com.
 
 ---
 
